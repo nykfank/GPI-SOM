@@ -1,0 +1,798 @@
+>gi|1703220|sp|P54121|AIG2_ARATH AIG2 protein [Cleavage at C-3 of 66% quality]
+seq0 x:5 y:10 map:N omega:3 oq:66
+
+>gi|32564492|ref|NP_497577.2| C.Elegans Homeobox (71.0 kD) (ceh-44) [Caenorhabditis elegans]
+seq1 x:1 y:18 map:N omega:32 oq:0
+
+>GRA2_HUMAN Glycine receptor alpha-2 chain precursor. [Cleavage at C-31 of 75% quality]
+seq2 x:1 y:22 map:N omega:31 oq:75
+
+>gi|11135405|sp|Q9XFH9|THF2_ARATH Thioredoxin F-type 2, chloroplast precursor (TRX-F2) [Cleavage at C-4 of 33% quality]
+seq3 x:11 y:19 map:N omega:4 oq:33
+
+>gi|729882|sp|P40229|KC2C_ARATH Casein kinase II beta' chain (CK II)
+seq4 x:6 y:36 map:N omega:32 oq:0
+
+>gi|120973|sp|P16378|GB01_DROME Guanine nucleotide-binding protein G(O), alpha subunit 47A [Cleavage at C-18 of 58% quality]
+seq5 x:18 y:5 map:U omega:18 oq:58
+
+>GRA1_HUMAN Glycine receptor alpha-1 chain precursor (Glycine receptor 48 kDa subunit) (Strychnine binding subunit).
+seq6 x:1 y:23 map:N omega:32 oq:0
+
+>gi|21595345|gb|AAH32430.1| DiGeorge syndrome critical region gene 2 [Homo sapiens] [Cleavage at C-9 of 58% quality]
+seq7 x:11 y:6 map:N omega:9 oq:58
+
+>gi|29791945|gb|AAH50416.1| Prostein protein [Homo sapiens] [Cleavage at C-28 of 100% quality]
+seq8 x:10 y:15 map:N omega:28 oq:100
+
+>gi|12643990|sp|O18388|IMB_DROME Importin beta subunit (Karyopherin beta-4 subunit) (Protein ketel)
+seq9 x:7 y:19 map:N omega:32 oq:0
+
+>gi|133028|sp|P25864|RK9_ARATH 50S ribosomal protein L9, chloroplast precursor (CL9) [Cleavage at C-10 of 25% quality]
+seq10 x:11 y:14 map:N omega:10 oq:25
+
+>gi|18088236|gb|AAH20543.1|AAH20543 carbohydrate kinase-like [Homo sapiens] [Cleavage at C-20 of 83% quality]
+seq11 x:6 y:18 map:N omega:20 oq:83
+
+>gi|20138450|sp|Q9ZV52|EXR3_ARATH Expansin-related protein 3 precursor (Ath-ExpGamma-1.2) [Cleavage at C-12 of 75% quality]
+seq12 x:11 y:11 map:N omega:12 oq:75
+
+>gi|458938|gb|AAB68364.1| Yhr186cp [Saccharomyces cerevisiae] [Cleavage at C-23 of 50% quality]
+seq13 x:1 y:22 map:N omega:23 oq:50
+
+>gi|21618927|gb|AAH31989.1| thyroid hormone responsive (SPOT14 homolog, rat) [Homo sapiens]
+seq14 x:1 y:1 map:N omega:32 oq:0
+
+>gi|17554108|ref|NP_499844.1| UDP-glucose pyrophosphorylase (56.8 kD) (3O854) [Caenorhabditis elegans]
+seq15 x:4 y:40 map:N omega:32 oq:0
+
+>gi|32469744|sp|Q8N5I4|DHSX_HUMAN Dehydrogenase/reductase SDR family member on chromosome X precursor (DHRSXY)
+seq16 x:8 y:16 map:N omega:32 oq:0
+
+>GAC4_CHICK Gamma-aminobutyric-acid receptor gamma-4 subunit precursor (GABA(A) receptor). [Cleavage at C-23 of 50% quality]
+seq17 x:16 y:40 map:N omega:23 oq:50
+
+>5H2A_CRIGR 5-hydroxytryptamine 2A receptor (5-HT-2A) (Serotonin receptor) (5-HT-2). [Cleavage at C-28 of 50% quality]
+seq18 x:7 y:19 map:N omega:28 oq:50
+
+>IM23_SCHMA 23 kDa integral membrane protein (SM23). [Cleavage at C-31 of 25% quality]
+seq19 x:6 y:22 map:N omega:31 oq:25
+
+>OPS3_DROME Opsin Rh3 (Inner R7 photoreceptor cells opsin). [Cleavage at C-19 of 91% quality]
+seq20 x:1 y:1 map:N omega:19 oq:91
+
+>gi|17541332|ref|NP_500500.1| scramblase family member (33.5 kD) (4E929) [Caenorhabditis elegans]
+seq21 x:1 y:40 map:N omega:32 oq:0
+
+>gi|21411341|gb|AAH31021.1| LAPTM4B protein [Homo sapiens] [Cleavage at C-13 of 75% quality]
+seq22 x:8 y:10 map:N omega:13 oq:75
+
+>gi|20988205|gb|AAH29662.1| chromosome 20 open reading frame 142 [Homo sapiens] [Cleavage at C-13 of 58% quality]
+seq23 x:2 y:9 map:N omega:13 oq:58
+
+>gi|17539942|ref|NP_501327.1| zw10 centromere protein (88.0 kD) (4I708) [Caenorhabditis elegans] [Cleavage at C-26 of 58% quality]
+seq24 x:10 y:29 map:N omega:26 oq:58
+
+>gi|1346955|sp|P48809|RB27_DROME Heterogeneous nuclear ribonucleoprotein 27C (hnRNP 48) (HRP48.1) [Cleavage at C-24 of 66% quality]
+seq25 x:1 y:1 map:N omega:24 oq:66
+
+>gi|26454657|sp|P32746|PYRD_ARATH Dihydroorotate dehydrogenase, mitochondrial precursor (Dihydroorotate oxidase) (DHOdehase)
+seq26 x:1 y:40 map:N omega:32 oq:0
+
+>OPS4_DROME Opsin Rh4 (Inner R7 photoreceptor cells opsin). [Cleavage at C-17 of 91% quality]
+seq27 x:1 y:1 map:N omega:17 oq:91
+
+>gi|17367749|sp|Q9NKV0|MLF_DROME Myeloid leukemia factor (Myelodysplasia-myeloid leukemia factor) (dMLF) [Cleavage at C-14 of 58% quality]
+seq28 x:1 y:12 map:N omega:14 oq:58
+
+>gi|401089|sp|P32030|SLP1_DROME Fork head domain transcription factor SLP1 (Sloppy paired locus protein 1)
+seq29 x:7 y:40 map:N omega:32 oq:0
+
+>gi|729160|sp|P41046|CCF_DROME CENTROSOMAL AND CHROMOSOMAL FACTOR (CCF) (CHROMOCENTROSOMIN) [Cleavage at C-23 of 100% quality]
+seq30 x:6 y:1 map:N omega:23 oq:100
+
+>gi|32129440|sp|Q8H0V1|C5P1_ARATH CDK5RAP1-like protein [Cleavage at C-4 of 75% quality]
+seq31 x:13 y:14 map:N omega:4 oq:75
+
+>GAA3_HUMAN Gamma-aminobutyric-acid receptor alpha-3 subunit precursor (GABA(A) receptor).
+seq32 x:1 y:33 map:N omega:32 oq:0
+
+>gi|21708099|gb|AAH33736.1| dermatopontin [Homo sapiens] [Cleavage at C-26 of 75% quality]
+seq33 x:1 y:16 map:N omega:26 oq:75
+
+>FCE2_HUMAN Low affinity immunoglobulin epsilon FC receptor (Lymphocyte IgE receptor) (FC-epsilon-RII) (CD23) (BLAST-2) (Immunoglobulin E-b [Cleavage at C-27 of 66% quality]
+seq34 x:10 y:3 map:N omega:27 oq:66
+
+>gi|3024222|sp|Q27333|NT56_DROME Lethal(2)neighbour of tid protein (NOT56) (NOT45) [Cleavage at C-15 of 91% quality]
+seq35 x:7 y:23 map:N omega:15 oq:91
+
+>gi|33525218|gb|AAH56160.1| Solute carrier family 25, member 5; 2F1 [Homo sapiens] [Cleavage at C-18 of 41% quality]
+seq36 x:5 y:18 map:N omega:18 oq:41
+
+>gi|6225833|sp|Q9ZW35|PCN2_ARATH Proliferating cell nuclear antigen 2 (PCNA 2)
+seq37 x:1 y:20 map:N omega:32 oq:0
+
+>gi|136251|sp|P14671|TRP1_ARATH Tryptophan synthase beta chain 1, chloroplast precursor [Cleavage at C-27 of 75% quality]
+seq38 x:6 y:15 map:N omega:27 oq:75
+
+>gi|729995|sp|P39678|MBP1_YEAST Transcription factor MBP1 (MBF subunit P120)
+seq39 x:1 y:40 map:N omega:32 oq:0
+
+>gi|17540918|ref|NP_502368.1| rac effector, Gut on EXterior GEX-3 (129.9 kD) (gex-3) [Caenorhabditis elegans] [Cleavage at C-4 of 58% quality]
+seq40 x:1 y:3 map:N omega:4 oq:58
+
+>gi|729141|sp|P27895|CIN8_YEAST Kinesin-like protein CIN8
+seq41 x:1 y:34 map:N omega:32 oq:0
+
+>gi|6175053|sp|O04421|SR14_ARATH Signal recognition particle 14 kDa protein (SRP14) [Cleavage at C-10 of 58% quality]
+seq42 x:1 y:11 map:N omega:10 oq:58
+
+>gi|729375|sp|P39009|DUN1_YEAST DNA DAMAGE RESPONSE PROTEIN KINASE DUN1 [Cleavage at C-27 of 66% quality]
+seq43 x:7 y:20 map:N omega:27 oq:66
+
+>gi|17568527|ref|NP_508240.1| n/apple PAN family member (58.7 kD) (XB933) [Caenorhabditis elegans]
+seq44 x:1 y:6 map:N omega:32 oq:0
+
+>gi|33112391|sp|Q94KB7|MLO6_ARATH MLO-like protein 6 (AtMlo6) [Cleavage at C-31 of 75% quality]
+seq45 x:6 y:34 map:N omega:31 oq:75
+
+>gi|31340372|sp|Q9VJ38|RM13_DROME 60S ribosomal protein L13, mitochondrial (L13mt)
+seq46 x:1 y:20 map:N omega:32 oq:0
+
+>gi|2501334|sp|Q07471|THI3_YEAST Thiamine metabolism regulatory protein THI3 [Cleavage at C-22 of 91% quality]
+seq47 x:8 y:10 map:N omega:22 oq:91
+
+>gi|26454671|sp|P49040|SUS1_ARATH Sucrose synthase (Sucrose-UDP glucosyltransferase)
+seq48 x:1 y:7 map:N omega:32 oq:0
+
+>gi|729781|sp|P38695|HXT5_YEAST Probable glucose transporter HXT5 [Cleavage at C-19 of 58% quality]
+seq49 x:1 y:15 map:N omega:19 oq:58
+
+>IG1R_HUMAN Insulin-like growth factor I receptor precursor (EC 2.7.1.112) (CD221 antigen). [Cleavage at C-4 of 66% quality]
+seq50 x:7 y:5 map:N omega:4 oq:66
+
+>gi|17562038|ref|NP_503783.1| intermediate Filament, C (55.9 kD) (ifc-1) [Caenorhabditis elegans] [Cleavage at C-18 of 100% quality]
+seq51 x:1 y:40 map:N omega:18 oq:100
+
+>gi|29839612|sp|Q9C6H5|WR63_ARATH Probable WRKY transcription factor 63 (WRKY DNA-binding protein 63)
+seq52 x:7 y:40 map:N omega:32 oq:0
+
+>gi|13124310|sp|Q9NFT9|HXK1_DROME Hexokinase type 1 [Cleavage at C-25 of 75% quality]
+seq53 x:1 y:15 map:N omega:25 oq:75
+
+>AA1R_CANFA Adenosine A1 receptor.
+seq54 x:1 y:6 map:N omega:32 oq:0
+
+>gi|26006939|sp|P14599|A4_DROME Beta-amyloid-like protein precursor
+seq55 x:1 y:19 map:N omega:32 oq:0
+
+>gi|5915859|sp|O22203|C983_ARATH Cytochrome P450 98A3
+seq56 x:7 y:32 map:N omega:32 oq:0
+
+>GLP_PIG Glycophorin. [Cleavage at C-26 of 66% quality]
+seq57 x:5 y:1 map:N omega:26 oq:66
+
+>gi|31127313|gb|AAH52812.1| CKAP1 protein [Homo sapiens]
+seq58 x:1 y:18 map:N omega:32 oq:0
+
+>gi|849166|gb|AAB68055.1| Ypr158wp [Saccharomyces cerevisiae] [Cleavage at C-20 of 58% quality]
+seq59 x:1 y:33 map:N omega:20 oq:58
+
+>gi|731742|sp|P38862|APG7_YEAST Autophagy protein APG7 (APG12 activating enzyme) [Cleavage at C-15 of 50% quality]
+seq60 x:1 y:24 map:N omega:15 oq:50
+
+>gi|30316060|sp|Q8MXI4|PMK2_CAEEL Mitogen-activated protein kinase pmk-2 (p38 MAP kinase 2) (Stress-activated protein kinase pmk-2) [Cleavage at C-21 of 83% quality]
+seq61 x:5 y:13 map:N omega:21 oq:83
+
+>GAA4_BOVIN Gamma-aminobutyric-acid receptor alpha-4 subunit precursor (GABA(A) receptor). [Cleavage at C-21 of 41% quality]
+seq62 x:9 y:21 map:N omega:21 oq:41
+
+>gi|20455491|sp|P25857|G3PB_ARATH Glyceraldehyde 3-phosphate dehydrogenase B, chloroplast precursor (NADP-dependent glyceraldehydephosphate dehydrogenase subunit B) [Cleavage at C-23 of 58% quality]
+seq63 x:1 y:17 map:N omega:23 oq:58
+
+>gi|13878393|sp|Q9M066|C90C_ARATH Cytochrome P450 90C1 (ROTUNDIFOLIA3) [Cleavage at C-10 of 83% quality]
+seq64 x:8 y:7 map:N omega:10 oq:83
+
+>C561_BOVIN Cytochrome b561 (Cytochrome b-561). [Cleavage at C-7 of 41% quality]
+seq65 x:7 y:6 map:N omega:7 oq:41
+
+>gi|24659706|gb|AAH39294.1| ubiquilin 1 [Homo sapiens] [Cleavage at C-13 of 91% quality]
+seq66 x:10 y:1 map:N omega:13 oq:91
+
+>gi|12643515|sp|Q9N2M8|HDC_DROME Headcase protein [Contains: Headcase short protein] [Cleavage at C-16 of 75% quality]
+seq67 x:11 y:19 map:N omega:16 oq:75
+
+>gi|32363271|sp|P93004|PI27_ARATH Aquaporin PIP2.7 (Plasma membrane intrinsic protein 3) (Salt-stress induced major intrinsis protein) [Cleavage at C-27 of 75% quality]
+seq68 x:12 y:27 map:N omega:27 oq:75
+
+>GAA1_CHICK Gamma-aminobutyric-acid receptor alpha-1 subunit precursor (GABA(A) receptor).
+seq69 x:1 y:6 map:N omega:32 oq:0
+
+>gi|28703720|gb|AAH47505.1| neurexophilin 1 [Homo sapiens] [Cleavage at C-9 of 58% quality]
+seq70 x:5 y:9 map:N omega:9 oq:58
+
+>gi|18266841|sp|P25383|YCC0_YEAST Transposon Ty2 protein A (Ty1-17 protein A) [Cleavage at C-23 of 50% quality]
+seq71 x:5 y:5 map:N omega:23 oq:50
+
+>gi|731612|sp|P38735|YHD5_YEAST Probable ATP-dependent permease YHL035C [Cleavage at C-20 of 66% quality]
+seq72 x:10 y:23 map:N omega:20 oq:66
+
+>gi|17569429|ref|NP_510253.1| synapses of Amphids Defective SAD-1, serine/threonine kinase regulating presynaptic vesicle clustering (100.8 kD) (sad-1) [Caenorhabditis elegans] [Cleavage at C-27 of 91% quality]
+seq73 x:1 y:11 map:N omega:27 oq:91
+
+>IMM1_ECOLI Colicin E1 immunity protein (ImmE1) (Microcin E1 immunity protein).
+seq74 x:7 y:40 map:N omega:32 oq:0
+
+>gi|6319731|ref|NP_009813.1| Trapp subunit of 20 kDa; Trs20p [Saccharomyces cerevisiae] [Cleavage at C-13 of 50% quality]
+seq75 x:9 y:29 map:N omega:13 oq:50
+
+>gi|16878063|gb|AAH17242.1|AAH17242 solute carrier family 1 (glutamate transporter), member 7 [Homo sapiens] [Cleavage at C-18 of 58% quality]
+seq76 x:7 y:1 map:N omega:18 oq:58
+
+>gi|135103|sp|P28668|SYEP_DROME Bifunctional aminoacyl-tRNA synthetase [Includes: Glutamyl-tRNA synthetase (Glutamate--tRNA ligase); Prolyl-tRNA synthetase (Proline--tRNA ligase)] [Cleavage at C-25 of 58% quality]
+seq77 x:5 y:30 map:N omega:25 oq:58
+
+>gi|3915759|sp|P36044|MNN4_YEAST MNN4 protein
+seq78 x:1 y:36 map:N omega:32 oq:0
+
+>gi|13124734|sp|P02824|HS72_DROME Major heat shock 70 kDa protein B (Heat shock protein 70B) (HSP70-87C1) [Cleavage at C-29 of 75% quality]
+seq79 x:1 y:1 map:N omega:29 oq:75
+
+>A1AA_HUMAN Alpha-1A adrenergic receptor (Alpha 1A-adrenoceptor) (Alpha-1C adrenergic receptor).
+seq80 x:1 y:38 map:N omega:32 oq:0
+
+>gi|24980815|gb|AAH39821.1| disrupted in renal carcinoma 2 [Homo sapiens]
+seq81 x:8 y:33 map:N omega:32 oq:0
+
+>gi|20978542|sp|Q9XVS8|NXF2_CAEEL Nuclear RNA export factor 2 [Cleavage at C-22 of 58% quality]
+seq82 x:7 y:14 map:N omega:22 oq:58
+
+>gi|1730657|sp|P53822|COS1_YEAST COS1 protein [Cleavage at C-8 of 58% quality]
+seq83 x:9 y:21 map:N omega:8 oq:58
+
+>SSRG_RAT Translocon-associated protein, gamma subunit (TRAP-gamma) (Signal sequence receptor gamma subunit) (SSR-gamma). [Cleavage at C-15 of 83% quality]
+seq84 x:15 y:29 map:U omega:15 oq:83
+
+>gi|266492|sp|P29615|LYSP_DROME Lysozyme P precursor (1,4-beta-N-acetylmuramidase P) [Cleavage at C-12 of 58% quality]
+seq85 x:8 y:1 map:N omega:12 oq:58
+
+>gi|27503514|gb|AAH42550.1| seven in absentia homolog 1 (Drosophila) [Homo sapiens] [Cleavage at C-23 of 41% quality]
+seq86 x:14 y:12 map:N omega:23 oq:41
+
+>gi|536402|emb|CAA85078.1| GRS1 [Saccharomyces cerevisiae] [Cleavage at C-25 of 58% quality]
+seq87 x:1 y:1 map:N omega:25 oq:58
+
+>gi|2500574|sp|Q99383|NAB4_YEAST Nuclear polyadenylated RNA-binding protein NAB4 [Cleavage at C-20 of 41% quality]
+seq88 x:1 y:29 map:N omega:20 oq:41
+
+>gi|1709106|sp|P53019|MS33_CAEEL Major sperm protein 33 (MSP) [Cleavage at C-28 of 75% quality]
+seq89 x:1 y:28 map:N omega:28 oq:75
+
+>gi|231641|sp|P29746|BNB_DROME Bangles and beads protein
+seq90 x:1 y:37 map:N omega:32 oq:0
+
+>gi|28436927|gb|AAH47105.1| zinc finger protein 354A [Homo sapiens]
+seq91 x:1 y:24 map:N omega:32 oq:0
+
+>gi|6685863|sp|P56793|RK16_ARATH Chloroplast 50S ribosomal protein L16 [Cleavage at C-15 of 58% quality]
+seq92 x:12 y:25 map:N omega:15 oq:58
+
+>gi|17510345|ref|NP_491090.1| nin one binding protein like (41.0 kD) (1D589) [Caenorhabditis elegans] [Cleavage at C-19 of 66% quality]
+seq93 x:1 y:31 map:N omega:19 oq:66
+
+>gi|12229669|sp|Q9SGG3|ALA5_ARATH Potential phospholipid-transporting ATPase 5 (Aminophospholipid flippase 5) [Cleavage at C-7 of 33% quality]
+seq94 x:1 y:9 map:N omega:7 oq:33
+
+>gi|17531519|ref|NP_496143.1| intestinal acid phosphatase protein 4 like family member (46.6 kD) (2K223) [Caenorhabditis elegans] [Cleavage at C-31 of 50% quality]
+seq95 x:9 y:1 map:N omega:31 oq:50
+
+>CYOB_ECOLI Ubiquinol oxidase polypeptide I (EC 1.10.3.-) (Cytochrome O subunit 1) (Oxidase BO(3) subunit 1) (Cytochrome O ubiquinol oxidas
+seq96 x:2 y:40 map:N omega:32 oq:0
+
+>gi|731878|sp|P38928|AXL2_YEAST AXL2 protein precursor (SRO4 protein)
+seq97 x:1 y:32 map:N omega:32 oq:0
+
+>gi|23512331|gb|AAH38452.1| phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma) [Homo sapiens] [Cleavage at C-8 of 83% quality]
+seq98 x:1 y:33 map:N omega:8 oq:83
+
+>gi|17541636|ref|NP_501762.1| major Sperm Protein MSP-56, Major Sperm Protein (14.2 kD) (msp-56) [Caenorhabditis elegans] [Cleavage at C-28 of 75% quality]
+seq99 x:1 y:28 map:N omega:28 oq:75
+
+>gi|1169199|sp|Q05212|D102_ARATH DNA-damage-repair/toleration protein DRT102
+seq100 x:1 y:20 map:N omega:32 oq:0
+
+>gi|17551340|ref|NP_509274.1| DumPY : shorter than wild-type DPY-7, collagen like family member (31.6 kD) (dpy-7) [Caenorhabditis elegans] [Cleavage at C-13 of 41% quality]
+seq101 x:1 y:13 map:N omega:13 oq:41
+
+>gi|536434|emb|CAA85096.1| HDR1 [Saccharomyces cerevisiae]
+seq102 x:5 y:29 map:N omega:32 oq:0
+
+>gi|12230237|sp|O80950|MB22_ARATH Myrosinase binding protein-like At2G39310 [Cleavage at C-18 of 58% quality]
+seq103 x:14 y:9 map:N omega:18 oq:58
+
+>IL2A_HUMAN Interleukin-2 receptor alpha chain precursor (IL-2 receptor alpha subunit) (P55) (TAC antigen) (CD25 antigen). [Cleavage at C-28 of 25% quality]
+seq104 x:8 y:27 map:N omega:28 oq:25
+
+>gi|730431|sp|P25635|PWP2_YEAST Periodic tryptophan protein 2 [Cleavage at C-14 of 58% quality]
+seq105 x:6 y:22 map:N omega:14 oq:58
+
+>gi|31076777|sp|Q9VKV5|LIN1_DROME Lin1-like protein
+seq106 x:5 y:27 map:N omega:32 oq:0
+
+>gi|549692|sp|P36085|STB6_YEAST STB6 protein
+seq107 x:1 y:25 map:N omega:32 oq:0
+
+>gi|29428069|sp|Q9W1C9|PEB3_DROME Ejaculatory bulb specific protein III precursor (PEB-meIII) [Cleavage at C-6 of 58% quality]
+seq108 x:1 y:12 map:N omega:6 oq:58
+
+>gi|17555272|ref|NP_497286.1| integrase, catalytic domain and Zn-finger, C2H2 type (92.4 kD) (3B510) [Caenorhabditis elegans] [Cleavage at C-17 of 91% quality]
+seq109 x:8 y:13 map:N omega:17 oq:91
+
+>gi|547969|sp|Q99323|MYSN_DROME Myosin heavy chain, non-muscle (Zipper protein) (Myosin II) [Cleavage at C-4 of 75% quality]
+seq110 x:8 y:7 map:N omega:4 oq:75
+
+>OPSD_BOVIN Rhodopsin. [Cleavage at C-15 of 50% quality]
+seq111 x:8 y:9 map:N omega:15 oq:50
+
+>gi|18089018|gb|AAH20556.1|AAH20556 zinc finger protein 183 (RING finger, C3HC4 type) [Homo sapiens] [Cleavage at C-17 of 58% quality]
+seq112 x:8 y:3 map:N omega:17 oq:58
+
+>gi|24660321|gb|AAH38949.1| AXIN1 up-regulated 1 [Homo sapiens] [Cleavage at C-13 of 33% quality]
+seq113 x:10 y:9 map:N omega:13 oq:33
+
+>UHPT_ECOLI Hexose phosphate transport protein.
+seq114 x:6 y:24 map:N omega:32 oq:0
+
+>GAB_LYMST Gamma-aminobutyric-acid receptor beta subunit precursor (GABA(A) receptor). [Cleavage at C-11 of 50% quality]
+seq115 x:14 y:40 map:N omega:11 oq:50
+
+>gi|29429172|sp|P18948|VIT6_CAEEL Vitellogenin 6 precursor
+seq116 x:1 y:15 map:N omega:32 oq:0
+
+>gi|2493854|sp|Q20779|COXE_CAEEL Probable cytochrome c oxidase polypeptide VIa, mitochondrial precursor [Cleavage at C-28 of 75% quality]
+seq117 x:1 y:15 map:N omega:28 oq:75
+
+>gi|18203824|gb|AAH21679.1| Murine mammary tumor integration site 6 (oncogene homolog) [Homo sapiens] [Cleavage at C-10 of 66% quality]
+seq118 x:5 y:9 map:N omega:10 oq:66
+
+>gi|120999|sp|P25157|GBAL_DROME Guanine nucleotide-binding protein, alpha subunit homolog (Protein concertina) [Cleavage at C-18 of 58% quality]
+seq119 x:11 y:16 map:N omega:18 oq:58
+
+>gi|12644155|sp|P20483|MPIP_DROME M-phase inducer phosphatase (String protein) (Cdc25-like protein) [Cleavage at C-7 of 58% quality]
+seq120 x:8 y:26 map:N omega:7 oq:58
+
+>gi|17535521|ref|NP_496330.1| peroxisomal isomerase (42.1 kD) (2L111) [Caenorhabditis elegans]
+seq121 x:1 y:13 map:N omega:32 oq:0
+
+>gi|1706509|sp|P15801|DPOG_YEAST DNA polymerase gamma (Mitochondrial DNA polymerase catalytic subunit) [Cleavage at C-21 of 66% quality]
+seq122 x:3 y:27 map:N omega:21 oq:66
+
+>GMCR_HUMAN Granulocyte-macrophage colony-stimulating factor receptor alpha chain precursor (GM-CSF-R-alpha) (GMR) (CDw116) (CD116 antigen)
+seq123 x:1 y:26 map:N omega:32 oq:0
+
+>gi|416761|sp|P32468|CC12_YEAST Cell division control protein 12 (Septin)
+seq124 x:5 y:37 map:N omega:32 oq:0
+
+>gi|14286178|sp|P13238|VTU2_DROME Vitelline membrane protein Vm26Ab precursor (Protein TU-4) (Protein SV23) [Cleavage at C-20 of 91% quality]
+seq125 x:1 y:4 map:N omega:20 oq:91
+
+>gi|21759460|sp|Q9NHV9|VAV_DROME Vav protein (DroVav) [Cleavage at C-22 of 33% quality]
+seq126 x:1 y:1 map:N omega:22 oq:33
+
+>gi|3122638|sp|Q42384|PRL1_ARATH PP1/PP2A phosphatases pleiotropic regulator PRL1 [Cleavage at C-20 of 66% quality]
+seq127 x:1 y:26 map:N omega:20 oq:66
+
+>gi|28558077|sp|Q9XF89|CB26_ARATH Chlorophyll A/B-binding protein CP26, chloroplast precursor (Light-harvesting complex II protein 5) (LHCB5) (LHCIIc) [Cleavage at C-9 of 50% quality]
+seq128 x:13 y:7 map:U omega:9 oq:50
+
+>gi|30387611|ref|NP_055891.1| cyclin-dependent kinase (CDC2-like) 11; death-preventing kinase [Homo sapiens] [Cleavage at C-19 of 75% quality]
+seq129 x:1 y:6 map:N omega:19 oq:75
+
+>gi|27469680|gb|AAH41700.1| rabaptin-5 [Homo sapiens] [Cleavage at C-14 of 50% quality]
+seq130 x:5 y:23 map:N omega:14 oq:50
+
+>MELB_ECOLI Melibiose carrier protein (Thiomethylgalactoside permease II) (Melibiose permease) (Na+ (Li+)/melibiose symporter) (Melibiose t [Cleavage at C-5 of 58% quality]
+seq131 x:9 y:11 map:N omega:5 oq:58
+
+>gi|17538167|ref|NP_495677.1| early embryogenesis protein zyg-11 like, ZYGote defective : embryonic lethal ZYG-11 (90.8 kD) (zyg-11) [Caenorhabditis elegans] [Cleavage at C-11 of 75% quality]
+seq132 x:8 y:31 map:N omega:11 oq:75
+
+>gi|139414|sp|P23643|VPS3_YEAST Vacuolar protein sorting-associated protein VPS3
+seq133 x:5 y:32 map:N omega:32 oq:0
+
+>gi|29792158|gb|AAH50333.1| GALNT10 protein [Homo sapiens] [Cleavage at C-9 of 41% quality]
+seq134 x:10 y:8 map:N omega:9 oq:41
+
+>gi|26397805|sp|Q9FLV5|PE61_ARATH Probable peroxidase 61 precursor (Atperox P61) [Cleavage at C-4 of 66% quality]
+seq135 x:9 y:15 map:N omega:4 oq:66
+
+>gi|12643270|sp|P18053|PSA4_DROME Proteasome subunit alpha type 4 (Proteasome 29 kDa subunit) (PROS-Dm29)
+seq136 x:1 y:1 map:N omega:32 oq:0
+
+>gi|123624|sp|P10592|HS72_YEAST Heat shock protein SSA2 [Cleavage at C-26 of 75% quality]
+seq137 x:1 y:1 map:N omega:26 oq:75
+
+>gi|18203448|sp|Q9SR72|GL32_ARATH Germin-like protein subfamily 3 member 2 precursor
+seq138 x:4 y:33 map:N omega:32 oq:0
+
+>gi|33112431|sp|Q9VKM1|PIWI_DROME Piwi protein
+seq139 x:7 y:38 map:N omega:32 oq:0
+
+>gi|25452790|sp|Q96292|ACT2_ARATH Actin 2
+seq140 x:2 y:40 map:N omega:32 oq:0
+
+>CD53_HUMAN Leukocyte surface antigen CD53 (Cell surface glycoprotein CD53). [Cleavage at C-21 of 33% quality]
+seq141 x:10 y:24 map:N omega:21 oq:33
+
+>gi|400976|sp|P31582|RHA1_ARATH Ras-related protein RHA1 [Cleavage at C-6 of 75% quality]
+seq142 x:11 y:5 map:N omega:6 oq:75
+
+>gi|17550100|ref|NP_509446.1| succinate dehydrogenase, flavoprotein subunit of complex II (70.4 kD) (sdh-1) [Caenorhabditis elegans] [Cleavage at C-19 of 33% quality]
+seq143 x:6 y:9 map:N omega:19 oq:33
+
+>gi|401191|sp|P30974|TLR1_DROME Tachykinin-like peptides receptor 86C (NKD)
+seq144 x:2 y:8 map:N omega:32 oq:0
+
+>gi|17535393|ref|NP_495814.1| PUmilio and FBF family member (62.6 kD) (puf-5) [Caenorhabditis elegans] [Cleavage at C-6 of 58% quality]
+seq145 x:6 y:15 map:N omega:6 oq:58
+
+>gi|548856|sp|Q06559|RS3_DROME 40S ribosomal protein S3
+seq146 x:5 y:11 map:N omega:32 oq:0
+
+>gi|20070755|gb|AAH26231.1| extracellular link domain-containing 1 [Homo sapiens]
+seq147 x:4 y:14 map:N omega:32 oq:0
+
+>MYP0_HUMAN Myelin P0 protein precursor (Myelin protein zero) (Myelin peripheral protein) (MPP). [Cleavage at C-23 of 58% quality]
+seq148 x:1 y:12 map:N omega:23 oq:58
+
+>gi|17543488|ref|NP_500445.1| c-type lectin family member (65.9 kD) (4E720) [Caenorhabditis elegans]
+seq149 x:3 y:17 map:N omega:32 oq:0
+
+>GAB3_HUMAN Gamma-aminobutyric-acid receptor beta-3 subunit precursor (GABA(A) receptor).
+seq150 x:15 y:40 map:N omega:32 oq:0
+
+>gi|2506349|sp|P46367|DHA4_YEAST Potassium-activated aldehyde dehydrogenase, mitochondrial precursor (K(+)-activated acetaldehyde dehydrogenase) (K(+)-ACDH) [Cleavage at C-29 of 75% quality]
+seq151 x:8 y:15 map:N omega:29 oq:75
+
+>CYOD_ECOLI Cytochrome O ubiquinol oxidase protein cyoD (Ubiquinol oxidase chain D).
+seq152 x:37 y:19 map:G omega:32 oq:0
+
+>gi|6322392|ref|NP_012466.1| U3 protein; Yjl069cp [Saccharomyces cerevisiae]
+seq153 x:5 y:37 map:N omega:32 oq:0
+
+>gi|20988805|gb|AAH30153.1| complement component 1, q subcomponent, alpha polypeptide [Homo sapiens] [Cleavage at C-13 of 50% quality]
+seq154 x:10 y:37 map:N omega:13 oq:50
+
+>5H1A_HUMAN 5-hydroxytryptamine 1A receptor (5-HT-1A) (Serotonin receptor) (5- HT1A) (G-21).
+seq155 x:1 y:14 map:N omega:32 oq:0
+
+>GAR2_HUMAN Gamma-aminobutyric-acid receptor rho-2 subunit precursor (GABA(A) receptor).
+seq156 x:13 y:38 map:N omega:32 oq:0
+
+>BAC1_HALS1 Archaerhodopsin 1 precursor (AR 1). [Cleavage at C-4 of 100% quality]
+seq157 x:10 y:4 map:N omega:4 oq:100
+
+>VMT2_IAANN Matrix protein M2. [Cleavage at C-16 of 75% quality]
+seq158 x:11 y:18 map:N omega:16 oq:75
+
+>gi|17540338|ref|NP_500797.1| fatty acid ELOngation (31.7 kD) (elo-6) [Caenorhabditis elegans]
+seq159 x:3 y:21 map:N omega:32 oq:0
+
+>gi|6319531|ref|NP_009613.1| Muddled Meiosis; Mum2p [Saccharomyces cerevisiae]
+seq160 x:7 y:21 map:N omega:32 oq:0
+
+>gi|13124684|sp|P04146|COPI_DROME Copia protein [Contains: Copia VLP protein; Copia protease ]
+seq161 x:10 y:17 map:N omega:32 oq:0
+
+>gi|20987432|gb|AAH29901.1| Norrie disease (pseudoglioma) [Homo sapiens] [Cleavage at C-24 of 58% quality]
+seq162 x:7 y:19 map:N omega:24 oq:58
+
+>gi|119136|sp|P05303|EF12_DROME ELONGATION FACTOR 1-ALPHA (EF-1-ALPHA)
+seq163 x:1 y:12 map:N omega:32 oq:0
+
+>gi|1705966|sp|Q00955|COAC_YEAST Acetyl-CoA carboxylase (ACC) [Includes: Biotin carboxylase ]
+seq164 x:5 y:19 map:N omega:32 oq:0
+
+>gi|17380436|sp|P42738|CHMU_ARATH Chorismate mutase, chloroplast precursor (CM-1)
+seq165 x:5 y:20 map:N omega:32 oq:0
+
+>gi|129815|sp|P24101|PE33_ARATH Peroxidase 33 precursor (Atperox P33) (ATPCa) (Neutral peroxidase C) (PERC) [Cleavage at C-23 of 25% quality]
+seq166 x:9 y:33 map:N omega:23 oq:25
+
+>gi|399252|sp|Q01649|CIK1_YEAST Spindle pole body associated protein [Cleavage at C-26 of 83% quality]
+seq167 x:9 y:25 map:N omega:26 oq:83
+
+>GLPA_HUMAN Glycophorin A precursor (PAS-2) (Sialoglycoprotein alpha) (MN sialoglycoprotein) (CD235a antigen). [Cleavage at C-13 of 66% quality]
+seq168 x:9 y:8 map:N omega:13 oq:66
+
+>gi|25453442|sp|P34609|JIP_CAEEL JNK-interacting protein (JIP) (JNK MAP kinase scaffold protein) (Uncoordinated protein 16) [Cleavage at C-19 of 41% quality]
+seq169 x:13 y:20 map:N omega:19 oq:41
+
+>gi|13878397|sp|Q9SAE4|C72T_ARATH Cytochrome P450 71B29 [Cleavage at C-29 of 50% quality]
+seq170 x:25 y:4 map:N omega:29 oq:50
+
+>LECI_MOUSE Asialoglycoprotein receptor 2 (Hepatic lectin 2) (MHL-2) (ASGP-R) (ASGPR). [Cleavage at C-26 of 75% quality]
+seq171 x:4 y:23 map:N omega:26 oq:75
+
+>gi|17380469|sp|Q24311|CUL1_DROME Cullin homolog 1 (Lin-19 homolog protein)
+seq172 x:3 y:21 map:N omega:32 oq:0
+
+>gi|31077174|sp|P34441|EB30_CAEEL Abnormal embryogenesis protein 30 [Cleavage at C-21 of 66% quality]
+seq173 x:5 y:23 map:N omega:21 oq:66
+
+>gi|20138197|sp|Q38865|EXP6_ARATH Alpha-expansin 6 precursor (At-EXP6) (AtEx6) (Ath-ExpAlpha-1.8) [Cleavage at C-25 of 66% quality]
+seq174 x:1 y:13 map:N omega:25 oq:66
+
+>gi|1174693|sp|P42286|THR_DROME THREE ROWS PROTEIN
+seq175 x:6 y:29 map:N omega:32 oq:0
+
+>gi|18201938|sp|O02151|NH14_CAEEL Nuclear hormone receptor family member nhr-14
+seq176 x:7 y:39 map:N omega:32 oq:0
+
+>gi|417321|sp|Q02046|MTD1_YEAST Methylenetetrahydrofolate dehydrogenase [NAD+]
+seq177 x:6 y:25 map:N omega:32 oq:0
+
+>gi|23273909|gb|AAH32851.1| Cas-Br-M (murine) ecotropic retroviral transforming sequence b [Homo sapiens] [Cleavage at C-20 of 33% quality]
+seq178 x:9 y:8 map:N omega:20 oq:33
+
+>gi|173000|gb|AAB59328.1| topoisomerase II [Cleavage at C-4 of 41% quality]
+seq179 x:13 y:17 map:N omega:4 oq:41
+
+>gi|2501188|sp|Q38814|THI4_ARATH Thiazole biosynthetic enzyme, chloroplast precursor (ARA6) [Cleavage at C-11 of 75% quality]
+seq180 x:10 y:7 map:N omega:11 oq:75
+
+>gi|1168964|sp|P39962|CK13_YEAST Casein kinase I homolog 3 [Cleavage at C-27 of 75% quality]
+seq181 x:3 y:15 map:N omega:27 oq:75
+
+>A2AA_HUMAN Alpha-2A adrenergic receptor (Alpha-2A adrenoceptor) (Alpha-2AAR subtype C10). [Cleavage at C-9 of 41% quality]
+seq182 x:7 y:26 map:N omega:9 oq:41
+
+>gi|6175063|sp|P49021|TIM_DROME Timeless protein
+seq183 x:5 y:31 map:N omega:32 oq:0
+
+>gi|32567224|ref|NP_872197.1| leucine-rich repeat containing protein family member (103.5 kD) (5M953) [Caenorhabditis elegans] [Cleavage at C-8 of 58% quality]
+seq184 x:4 y:30 map:N omega:8 oq:58
+
+>gi|18043726|gb|AAH19816.1| heat shock 70kDa protein 8 [Homo sapiens] [Cleavage at C-10 of 83% quality]
+seq185 x:12 y:7 map:N omega:10 oq:83
+
+>gi|26454645|sp|Q42536|PORA_ARATH Protochlorophyllide reductase A, chloroplast precursor (PCR A) (NADPH-protochlorophyllide oxidoreductase A) (POR A) [Cleavage at C-32 of 83% quality]
+seq186 x:5 y:35 map:N omega:32 oq:83
+
+>gi|12643928|sp|Q9W1I2|BGCN_DROME Benign gonial cell neoplasm protein
+seq187 x:4 y:40 map:N omega:32 oq:0
+
+>gi|731871|sp|P40468|TAO3_YEAST Cell morphogenesis protein PAG1 (TAO3 protein) [Cleavage at C-29 of 50% quality]
+seq188 x:4 y:32 map:N omega:29 oq:50
+
+>HEMA_MEASI Hemagglutinin-neuraminidase (EC 3.2.1.18). [Cleavage at C-13 of 50% quality]
+seq189 x:12 y:8 map:N omega:13 oq:50
+
+>MPRD_HUMAN Cation-dependent mannose-6-phosphate receptor precursor (CD MAN-6-P receptor) (CD-MPR) (46 KDA mannose 6-phosphate receptor) (M
+seq190 x:6 y:31 map:N omega:32 oq:0
+
+>gi|728742|sp|P40433|6P21_YEAST 6-phosphofructo-2-kinase 1 (Phosphofructokinase 2 I) (6PF-2-K 1) [Cleavage at C-7 of 50% quality]
+seq191 x:1 y:35 map:N omega:7 oq:50
+
+>gi|15706301|dbj|BAB68339.1| THH1 [Arabidopsis thaliana]
+seq192 x:6 y:33 map:N omega:32 oq:0
+
+>gi|2829749|sp|P91679|OPT1_DROME OLIGOPEPTIDE TRANSPORTER 1 (YIN PROTEIN) [Cleavage at C-31 of 33% quality]
+seq193 x:1 y:18 map:N omega:31 oq:33
+
+>gi|2289884|gb|AAB65067.1| Weakly similiar to GTP-binding protein (B. subtillis) and glycogen phosphorylases (human and rabbit) [Saccharomyces cerevisiae] [Cleavage at C-8 of 66% quality]
+seq194 x:1 y:14 map:N omega:8 oq:66
+
+>CD63_RAT CD63 antigen (AD1 antigen). [Cleavage at C-31 of 75% quality]
+seq195 x:6 y:33 map:N omega:31 oq:75
+
+>gi|133866|sp|P16181|R11A_ARATH 40S ribosomal protein S11-1 [Cleavage at C-13 of 75% quality]
+seq196 x:13 y:6 map:N omega:13 oq:75
+
+>gi|1173269|sp|P26783|RS5_YEAST 40S ribosomal protein S5 (S2) (YS8) (RP14) [Cleavage at C-26 of 91% quality]
+seq197 x:7 y:16 map:N omega:26 oq:91
+
+>gi|1234849|gb|AAB67481.1| L-Asparaginase II (Swiss Prot. accession number P11163).  Note that this ORF is longer at the 3' end than ASP3 in GenBank accession number J03926.  This gene is included in four 3.6 kb repeats in this cosmid at the junction with rDNA
+seq198 x:9 y:34 map:N omega:32 oq:0
+
+>gi|969091|gb|AAA84413.1| LDL receptor-like repeat; orfIa [Cleavage at C-11 of 58% quality]
+seq199 x:7 y:11 map:N omega:11 oq:58
+
+>GAA1_HUMAN Gamma-aminobutyric-acid receptor alpha-1 subunit precursor (GABA(A) receptor).
+seq200 x:1 y:6 map:N omega:32 oq:0
+
+>ITA5_MOUSE Integrin alpha-5 precursor (Fibronectin receptor alpha subunit) (Integrin alpha-F) (VLA-5) (CD49e). [Cleavage at C-3 of 83% quality]
+seq201 x:5 y:8 map:N omega:3 oq:83
+
+>OPS1_CALVI Opsin Rh1 (Outer R1-R6 photoreceptor cells opsin). [Cleavage at C-16 of 83% quality]
+seq202 x:4 y:12 map:N omega:16 oq:83
+
+>gi|1170607|sp|Q09629|KADY_CAEEL PROBABLE ADENYLATE KINASE ISOENZYME ZK673.2 (ATP-AMP TRANSPHOSPHORYLASE)
+seq203 x:9 y:13 map:N omega:32 oq:0
+
+>gi|20380100|gb|AAH28150.1| sialic acid binding Ig-like lectin 7 [Homo sapiens]
+seq204 x:4 y:22 map:N omega:32 oq:0
+
+>gi|25453425|sp|P08630|BTKL_DROME Tyrosine-protein kinase Btk29A (Dsrc28C) [Cleavage at C-28 of 33% quality]
+seq205 x:14 y:19 map:N omega:28 oq:33
+
+>gi|17368680|sp|Q9BJK5|NH97_CAEEL Nuclear hormone receptor family member nhr-97 [Cleavage at C-16 of 83% quality]
+seq206 x:5 y:4 map:N omega:16 oq:83
+
+>gi|135080|sp|P19339|SXL_DROME Sex-lethal protein [Cleavage at C-32 of 75% quality]
+seq207 x:1 y:10 map:N omega:32 oq:75
+
+>CD82_HUMAN CD82 antigen (Inducible membrane protein R2) (C33 antigen) (IA4) (Metastasis suppressor Kangai 1) (Suppressor of tumorigenicity [Cleavage at C-23 of 25% quality]
+seq208 x:5 y:36 map:N omega:23 oq:25
+
+>CD81_HUMAN CD81 antigen (26 kDa cell surface protein TAPA-1) (Target of the antiproliferative antibody 1). [Cleavage at C-5 of 66% quality]
+seq209 x:31 y:20 map:N omega:5 oq:66
+
+>gi|17535563|ref|NP_495599.1| protein BM-009 (38.0 kD) (2H910) [Caenorhabditis elegans] [Cleavage at C-14 of 66% quality]
+seq210 x:5 y:32 map:N omega:14 oq:66
+
+>gi|133131|sp|P14063|RM31_YEAST 60S RIBOSOMAL PROTEIN L31, MITOCHONDRIAL PRECURSOR (YML31)
+seq211 x:4 y:33 map:N omega:32 oq:0
+
+>gi|27923847|sp|Q9V6K3|ROR2_DROME Tyrosine-protein kinase transmembrane receptor Ror2 precursor (Neurospecific receptor tyrosine kinase)
+seq212 x:1 y:40 map:N omega:32 oq:0
+
+>gi|8134677|sp|Q24323|SM2A_DROME Semaphorin 2A precursor (Semaphorin-II) (Sema II) [Cleavage at C-22 of 41% quality]
+seq213 x:3 y:26 map:N omega:22 oq:41
+
+>gi|417810|sp|P10080|SSB1_YEAST Single-stranded nucleic acid-binding protein
+seq214 x:1 y:36 map:N omega:32 oq:0
+
+>gi|21619494|gb|AAH31399.1| UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 4 [Homo sapiens] [Cleavage at C-9 of 75% quality]
+seq215 x:10 y:1 map:N omega:9 oq:75
+
+>A4_HUMAN Amyloid beta A4 protein precursor (APP) (ABPP) (Alzheimer's disease amyloid protein) (Cerebral vascular amyloid peptide) (CVAP) [Cleavage at C-32 of 83% quality]
+seq216 x:1 y:15 map:N omega:32 oq:83
+
+>gi|29839628|sp|Q9FLX8|WR27_ARATH Probable WRKY transcription factor 27 (WRKY DNA-binding protein 27) [Cleavage at C-10 of 91% quality]
+seq217 x:10 y:5 map:N omega:10 oq:91
+
+>gi|458930|gb|AAB68356.1| Yhr197wp [Saccharomyces cerevisiae]
+seq218 x:4 y:22 map:N omega:32 oq:0
+
+>gi|25089877|sp|O16102|CHD3_DROME Chromodomain helicase-DNA-binding protein 3 [Cleavage at C-11 of 66% quality]
+seq219 x:8 y:7 map:N omega:11 oq:66
+
+>PIGR_HUMAN Polymeric-immunoglobulin receptor precursor (Poly-Ig receptor) (PIGR) [Contains: Secretory component]. [Cleavage at C-15 of 66% quality]
+seq220 x:1 y:1 map:N omega:15 oq:66
+
+>gi|20141647|sp|Q38874|STM_ARATH Homeobox protein SHOOT MERISTEMLESS [Cleavage at C-5 of 66% quality]
+seq221 x:11 y:9 map:N omega:5 oq:66
+
+>gi|12229947|sp|Q9VA12|PS4L_DROME Proteasome subunit alpha type 4-like [Cleavage at C-29 of 41% quality]
+seq222 x:1 y:29 map:N omega:29 oq:41
+
+>gi|462587|sp|P09088|MEC3_CAEEL Mechanosensory protein 3 [Cleavage at C-19 of 33% quality]
+seq223 x:1 y:16 map:N omega:19 oq:33
+
+>gi|6686030|sp|O77081|TPSA_CAEEL Protein-tyrosine sulfotransferase A (Tyrosylprotein sulfotransferase-A) (TPST-A) [Cleavage at C-15 of 25% quality]
+seq224 x:3 y:35 map:N omega:15 oq:25
+
+>gi|536600|emb|CAA85178.1| unnamed protein product [Saccharomyces cerevisiae]
+seq225 x:6 y:28 map:N omega:32 oq:0
+
+>gi|26454657|sp|P32746|PYRD_ARATH Dihydroorotate dehydrogenase, mitochondrial precursor (Dihydroorotate oxidase) (DHOdehase)
+seq226 x:1 y:40 map:N omega:32 oq:0
+
+>CYOE_ECOLI Protoheme IX farnesyltransferase (EC 2.5.1.-) (Heme O synthase). [Cleavage at C-4 of 50% quality]
+seq227 x:14 y:16 map:G omega:4 oq:50
+
+>gi|17939467|gb|AAH19277.1|AAH19277 jumping translocation breakpoint [Homo sapiens]
+seq228 x:3 y:36 map:N omega:32 oq:0
+
+>gi|585177|sp|Q05337|GBAF_DROME Guanine nucleotide-binding protein G(F), alpha subunit [Cleavage at C-5 of 66% quality]
+seq229 x:11 y:18 map:N omega:5 oq:66
+
+>gi|6319426|ref|NP_009508.1| 44 kDa core protein of yeast coenzyme QH2 cytochrome c reductase; Cor1p [Saccharomyces cerevisiae] [Cleavage at C-23 of 41% quality]
+seq230 x:7 y:28 map:N omega:23 oq:41
+
+>gi|11133004|sp|Q39012|KSGI_ARATH Shaggy-related protein kinase iota (ASK-iota) [Cleavage at C-7 of 66% quality]
+seq231 x:1 y:32 map:N omega:7 oq:66
+
+>gi|4389425|gb|AAD19795.1| homeodomain protein [Drosophila melanogaster]
+seq232 x:8 y:38 map:N omega:32 oq:0
+
+>gi|17531677|ref|NP_496136.1| high density lipoprotein binding protein like (134.3 kD) (2K178) [Caenorhabditis elegans] [Cleavage at C-16 of 100% quality]
+seq233 x:16 y:12 map:N omega:16 oq:100
+
+>gi|29351568|gb|AAH49204.1| Homeo box B4 [Homo sapiens] [Cleavage at C-16 of 91% quality]
+seq234 x:11 y:3 map:N omega:16 oq:91
+
+>gi|129639|sp|P28795|PEX3_YEAST PEROXISOMAL MEMBRANE PROTEIN PAS3 (PEROXIN-3) [Cleavage at C-18 of 83% quality]
+seq235 x:9 y:36 map:N omega:18 oq:83
+
+>gi|17508671|ref|NP_492576.1| ribosomal Protein, Large subunit (15.4 kD) (rpl-14) [Caenorhabditis elegans]
+seq236 x:6 y:17 map:N omega:32 oq:0
+
+>gi|17538518|ref|NP_501089.1| OB-fold nucleic acid binding domain containing protein (15.0 kD) (4H796) [Caenorhabditis elegans]
+seq237 x:3 y:7 map:N omega:32 oq:0
+
+>gi|401436|sp|P31378|NTG1_YEAST DNA base excision repair N-glycosylase 1, mitochondrial precursor
+seq238 x:4 y:20 map:N omega:32 oq:0
+
+>gi|2494408|sp|Q20223|FAB1_CAEEL Fatty acid-binding protein homolog 1 precursor
+seq239 x:5 y:31 map:N omega:32 oq:0
+
+>GAB1_HUMAN Gamma-aminobutyric-acid receptor beta-1 subunit precursor (GABA(A) receptor).
+seq240 x:15 y:40 map:N omega:32 oq:0
+
+>OPSR_HUMAN Red-sensitive opsin (Red cone photoreceptor pigment). [Cleavage at C-17 of 91% quality]
+seq241 x:8 y:8 map:N omega:17 oq:91
+
+>gi|1709914|sp|P54113|PU91_YEAST Bifunctional purine biosynthesis protein ADE16 [Includes: Phosphoribosylaminoimidazolecarboxamide formyltransferase (AICAR transformylase); IMP cyclohydrolase (Inosinicase) (IMP synthetase) (ATIC)] [Cleavage at C-29 of 41% quality]
+seq242 x:7 y:40 map:N omega:29 oq:41
+
+>CXB1_RAT Gap junction beta-1 protein (Connexin 32) (Cx32) (GAP junction 28 kDa liver protein). [Cleavage at C-14 of 66% quality]
+seq243 x:9 y:23 map:N omega:14 oq:66
+
+>gi|17432971|sp|O24521|HBL2_ARATH Non-symbiotic hemoglobin 2 (Hb2) (ARAth GLB2) [Cleavage at C-22 of 33% quality]
+seq244 x:6 y:20 map:N omega:22 oq:33
+
+>IL2B_HUMAN Interleukin-2 receptor beta chain precursor (IL-2 receptor) (P70-75) (High affinity IL-2 receptor beta subunit) (CD122 antigen)
+seq245 x:5 y:3 map:N omega:32 oq:0
+
+>IMMA_CITFR Colicin A immunity protein (Microcin A immunity protein).
+seq246 x:1 y:16 map:N omega:32 oq:0
+
+>gi|24660116|gb|AAH39196.1| solute carrier family 2 (facilitated glucose transporter), member 3 [Homo sapiens] [Cleavage at C-24 of 41% quality]
+seq247 x:4 y:17 map:N omega:24 oq:41
+
+>gi|13878396|sp|Q9SAE3|C72S_ARATH Cytochrome P450 71B28 [Cleavage at C-29 of 50% quality]
+seq248 x:9 y:16 map:N omega:29 oq:50
+
+>gi|729846|sp|P32351|IMPX_YEAST Sugar utilization regulatory protein IMP2 [Cleavage at C-22 of 41% quality]
+seq249 x:9 y:27 map:N omega:22 oq:41
+
+>gi|25452975|sp|Q8L743|GPD3_ARATH Glucose-6-phosphate 1-dehydrogenase 3, chloroplast precursor (G6PD3) (G6PDH3) [Cleavage at C-25 of 66% quality]
+seq250 x:11 y:4 map:N omega:25 oq:66
+
+>CB21_PEA Chlorophyll A-B binding protein AB96 (LHCII type I CAB-AB96) (LHCP) (Major 15) (Fragment). [Cleavage at C-12 of 33% quality]
+seq251 x:12 y:10 map:N omega:12 oq:33
+
+>gi|1172434|sp|P39684|PES4_YEAST PES4 protein (DNA polymerase epsilon suppressor 4) [Cleavage at C-25 of 66% quality]
+seq252 x:6 y:39 map:N omega:25 oq:66
+
+>gi|6322632|ref|NP_012705.1| Repressed by glucose, induced by lactic acid; in high copy, weakly suppresses cpr3 null mutant phenotype on lactate medium at 37C; Jen1p [Saccharomyces cerevisiae] [Cleavage at C-22 of 58% quality]
+seq253 x:2 y:22 map:N omega:22 oq:58
+
+>gi|27477051|ref|NP_115808.1| actin binding LIM protein 2 [Homo sapiens] [Cleavage at C-25 of 33% quality]
+seq254 x:8 y:23 map:N omega:25 oq:33
+
+>gi|18088610|gb|AAH20864.1|AAH20864 calbindin 1, (28kD) [Homo sapiens] [Cleavage at C-20 of 75% quality]
+seq255 x:12 y:1 map:N omega:20 oq:75
+
+>gi|6321989|ref|NP_012065.1| Vac8p binding protein; nucleus-vacuole junction; Nvj1p [Saccharomyces cerevisiae]
+seq256 x:1 y:7 map:N omega:32 oq:0
+
+>gi|32564658|ref|NP_492519.2| inositol polyphosphate kinase (37.2 kD) (1K70) [Caenorhabditis elegans] [Cleavage at C-8 of 75% quality]
+seq257 x:5 y:11 map:N omega:8 oq:75
+
+>gi|3929401|sp|P12297|SUWA_DROME Suppressor of white apricot protein [Cleavage at C-4 of 75% quality]
+seq258 x:6 y:28 map:N omega:4 oq:75
+
+>gi|17553826|ref|NP_499504.1| GLYcosylation related, UDP-N-acetyl-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase, with ER retention signal (48.4 kD) (gly-8) [Caenorhabditis elegans]
+seq259 x:1 y:22 map:N omega:32 oq:0
+
+>gi|13124382|sp|Q94526|ORK1_DROME Open rectifier potassium channel protein 1 (Two pore domain potassium channel Ork1) [Cleavage at C-14 of 100% quality]
+seq260 x:8 y:5 map:N omega:14 oq:100
+
+>gi|18490267|gb|AAH22449.1| gamma-aminobutyric acid (GABA) A receptor, beta 1 [Homo sapiens]
+seq261 x:15 y:40 map:N omega:32 oq:0
+
+>TCR1_ECOLI Tetracycline resistance protein, class A (TETA(A)). [Cleavage at C-26 of 75% quality]
+seq262 x:12 y:1 map:N omega:26 oq:75
+
+>gi|461712|sp|P34688|CCD7_CAEEL Cuticle collagen dpy-7 precursor [Cleavage at C-13 of 41% quality]
+seq263 x:1 y:13 map:N omega:13 oq:41
+
+>gi|3023979|sp|Q94166|HM33_CAEEL Homeobox protein ceh-33 [Cleavage at C-30 of 100% quality]
+seq264 x:5 y:1 map:N omega:30 oq:100
+
+>gi|12643246|sp|Q9LF79|ACA8_ARATH Calcium-transporting ATPase 8, plasma membrane-type (Ca(2+)-ATPase isoform 8) [Cleavage at C-7 of 83% quality]
+seq265 x:1 y:35 map:N omega:7 oq:83
+

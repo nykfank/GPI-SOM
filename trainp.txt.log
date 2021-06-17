@@ -1,0 +1,687 @@
+>BAB00834.1DELAT3G12660FLA14 [Cleavage at C-32 of 66% quality]
+seq0 x:15 y:22 map:G omega:32 oq:66
+
+>AT2G17760 [Cleavage at C-21 of 100% quality]
+seq1 x:18 y:31 map:G omega:21 oq:100
+
+>AT4G38140 [Cleavage at C-23 of 75% quality]
+seq2 x:15 y:36 map:G omega:23 oq:75
+
+>AT3G26110 [Cleavage at C-23 of 83% quality]
+seq3 x:33 y:11 map:G omega:23 oq:83
+
+>AF343663_1immunoglobulinsuperfamilyreceptortra [Cleavage at C-30 of 25% quality]
+seq4 x:9 y:40 map:G omega:30 oq:25
+
+>ESAG6,subunitofheterodimerictransferrinrecep [Cleavage at C-9 of 66% quality]
+seq5 x:22 y:1 map:G omega:9 oq:66
+
+>A46052vascularcelladhesionmolecule1,GPI-anch
+seq6 x:24 y:39 map:G omega:32 oq:0
+
+>AAD23007.1At2g25060 [Cleavage at C-22 of 41% quality]
+seq7 x:22 y:1 map:G omega:22 oq:41
+
+>AAD10143.1AT2G19440 [Cleavage at C-28 of 75% quality]
+seq8 x:34 y:16 map:G omega:28 oq:75
+
+>At4g25240 [Cleavage at C-27 of 100% quality]
+seq9 x:27 y:17 map:G omega:27 oq:100
+
+>CAB45983.1AT4G12360 [Cleavage at C-24 of 83% quality]
+seq10 x:20 y:12 map:G omega:24 oq:83
+
+>RWHU59surfaceglycoproteinCD59precursor[valida [Cleavage at C-8 of 75% quality]
+seq11 x:16 y:19 map:G omega:8 oq:75
+
+>(AAC31167.1)AT2G45040 [Cleavage at C-27 of 50% quality]
+seq12 x:15 y:30 map:G omega:27 oq:50
+
+>GI|15451188|GB|AAK96865.1|AT5G67131 [Cleavage at C-28 of 58% quality]
+seq13 x:27 y:29 map:G omega:28 oq:58
+
+>AGA1_YEASTA-AGGLUTININATTACHMENTSUBUNITPRECURS [Cleavage at C-27 of 58% quality]
+seq14 x:19 y:12 map:G omega:27 oq:58
+
+>matrixmetalloproteinase17;membrane-type-4matr [Cleavage at C-25 of 50% quality]
+seq15 x:14 y:1 map:G omega:25 oq:50
+
+>GI|17979355|GB|AAL49903.1|AT4G38660 [Cleavage at C-27 of 41% quality]
+seq16 x:17 y:24 map:G omega:27 oq:41
+
+>BAA97185.1AT5G62210 [Cleavage at C-28 of 100% quality]
+seq17 x:34 y:8 map:G omega:28 oq:100
+
+>(AAF98409.1)AT1G18650
+seq18 x:11 y:40 map:G omega:32 oq:0
+
+>AAF02148.1At3g07390 [Cleavage at C-27 of 83% quality]
+seq19 x:23 y:11 map:G omega:27 oq:83
+
+>AT1G65240 [Cleavage at C-28 of 91% quality]
+seq20 x:21 y:21 map:G omega:28 oq:91
+
+>AAF02128.1AT3G02210COBL1 [Cleavage at C-27 of 58% quality]
+seq21 x:26 y:10 map:G omega:27 oq:58
+
+>BAB10345.1COBL9AT5G49270 [Cleavage at C-27 of 58% quality]
+seq22 x:28 y:7 map:G omega:27 oq:58
+
+>AAF68112.1AT1G79800 [Cleavage at C-27 of 100% quality]
+seq23 x:16 y:26 map:G omega:27 oq:100
+
+>BAB10717.1AT5G53870 [Cleavage at C-26 of 83% quality]
+seq24 x:32 y:24 map:G omega:26 oq:83
+
+>VSM2_TRYBBVariantsurfaceglycoproteinMITAT1.2 [Cleavage at C-20 of 50% quality]
+seq25 x:16 y:18 map:G omega:20 oq:50
+
+>AAG42922.1AT1G08210 [Cleavage at C-21 of 50% quality]
+seq26 x:27 y:17 map:G omega:21 oq:50
+
+>Q8GYU0 GPI-anchored protein. [Cleavage at C-16 of 75% quality]
+seq27 x:13 y:7 map:U omega:16 oq:75
+
+>CAB81444.1AT4G28560 [Cleavage at C-24 of 91% quality]
+seq28 x:16 y:29 map:G omega:24 oq:91
+
+>AAF26167.1AT3G01070 [Cleavage at C-30 of 83% quality]
+seq29 x:17 y:10 map:G omega:30 oq:83
+
+>AT5G04310 [Cleavage at C-26 of 66% quality]
+seq30 x:14 y:34 map:G omega:26 oq:66
+
+>AT5G26300 [Cleavage at C-30 of 75% quality]
+seq31 x:15 y:14 map:G omega:30 oq:75
+
+>G13B_DICDICellsurfaceglycoproteinGP138Bprecur [Cleavage at C-21 of 66% quality]
+seq32 x:14 y:34 map:G omega:21 oq:66
+
+>AF202115_1GPI-anchoredceruloplasmin[Rattusnorv [Cleavage at C-30 of 50% quality]
+seq33 x:13 y:25 map:G omega:30 oq:50
+
+>AAF08558.1AT1G77780 [Cleavage at C-24 of 75% quality]
+seq34 x:16 y:22 map:G omega:24 oq:75
+
+>BAB11105.1AT5G41290 [Cleavage at C-17 of 25% quality]
+seq35 x:32 y:14 map:G omega:17 oq:25
+
+>AAD55511.1AT1G70990 [Cleavage at C-29 of 75% quality]
+seq36 x:31 y:19 map:G omega:29 oq:75
+
+>spermadhesionmolecule1isoform2;spermsurfac [Cleavage at C-27 of 75% quality]
+seq37 x:21 y:27 map:G omega:27 oq:75
+
+>BAB08533.1AT5G40620 [Cleavage at C-22 of 83% quality]
+seq38 x:32 y:11 map:G omega:22 oq:83
+
+>AT3G53190 [Cleavage at C-8 of 66% quality]
+seq39 x:32 y:24 map:G omega:8 oq:66
+
+>AF243180_1dicyanin[Lycopersiconesculentum]Toma [Cleavage at C-26 of 83% quality]
+seq40 x:18 y:21 map:G omega:26 oq:83
+
+>BAB02115.1AT3G27200 [Cleavage at C-27 of 83% quality]
+seq41 x:21 y:13 map:G omega:27 oq:83
+
+>BAA97291.1AT5G64790
+seq42 x:28 y:1 map:G omega:32 oq:0
+
+>CAB81604.1AT3G55790 [Cleavage at C-19 of 58% quality]
+seq43 x:12 y:37 map:G omega:19 oq:58
+
+>BAB08290.1AT5G14110 [Cleavage at C-29 of 75% quality]
+seq44 x:20 y:40 map:G omega:29 oq:75
+
+>AAD23007.1AT2G25060 [Cleavage at C-22 of 41% quality]
+seq45 x:22 y:1 map:G omega:22 oq:41
+
+>AF347056_1glycoproteinTEC-21[Rattusnorvegicus] [Cleavage at C-27 of 58% quality]
+seq46 x:12 y:40 map:G omega:27 oq:58
+
+>Q8GWY5 GPI-anchored protein. [Cleavage at C-26 of 83% quality]
+seq47 x:29 y:5 map:G omega:26 oq:83
+
+>BAB10996.1AT5G58050 [Cleavage at C-25 of 25% quality]
+seq48 x:17 y:1 map:G omega:25 oq:25
+
+>AAB82617.1AGP8FLA8AT2G45470 [Cleavage at C-29 of 91% quality]
+seq49 x:21 y:28 map:G omega:29 oq:91
+
+>PONA_DICDIPONTICULINPRECURSOR [Cleavage at C-25 of 83% quality]
+seq50 x:19 y:22 map:G omega:25 oq:83
+
+>AAD32933.1AT1G30800NOAGP [Cleavage at C-24 of 83% quality]
+seq51 x:15 y:1 map:G omega:24 oq:83
+
+>AAB81674.1AT2G17120 [Cleavage at C-32 of 91% quality]
+seq52 x:25 y:30 map:G omega:32 oq:91
+
+>BAA97180.1AGP14AT5G56540 [Cleavage at C-23 of 83% quality]
+seq53 x:34 y:9 map:G omega:23 oq:83
+
+>AAC32038.1AT2G32300 [Cleavage at C-21 of 100% quality]
+seq54 x:30 y:16 map:G omega:21 oq:100
+
+>fGpi-anchoredasparticprotease(Yapsin6);Yps6p [Cleavage at C-23 of 83% quality]
+seq55 x:14 y:35 map:G omega:23 oq:83
+
+>AAD22328.1AT2G04780FLA7 [Cleavage at C-23 of 75% quality]
+seq56 x:21 y:17 map:G omega:23 oq:75
+
+>BAB10276.1AT5G64080 [Cleavage at C-3 of 91% quality]
+seq57 x:24 y:22 map:G omega:3 oq:91
+
+>CAB38264.1AT4G27520 [Cleavage at C-25 of 91% quality]
+seq58 x:22 y:24 map:G omega:25 oq:91
+
+>Q9SRT7 F14P3.14 protein (GPI-anchored protein). [Cleavage at C-27 of 58% quality]
+seq59 x:26 y:10 map:G omega:27 oq:58
+
+>AAF26986.1AT3G02740 [Cleavage at C-25 of 75% quality]
+seq60 x:20 y:19 map:G omega:25 oq:75
+
+>AT4G28085 [Cleavage at C-26 of 100% quality]
+seq61 x:20 y:20 map:G omega:26 oq:100
+
+>AAD20685.1AT2G28410 [Cleavage at C-26 of 66% quality]
+seq62 x:26 y:9 map:G omega:26 oq:66
+
+>AAK20859.1AT2G20520FLA6 [Cleavage at C-28 of 91% quality]
+seq63 x:21 y:32 map:G omega:28 oq:91
+
+>AAB95306.1AT2G26720 [Cleavage at C-31 of 100% quality]
+seq64 x:30 y:30 map:G omega:31 oq:100
+
+>AT3G06035
+seq65 x:26 y:37 map:G omega:32 oq:0
+
+>At5g19250 [Cleavage at C-27 of 75% quality]
+seq66 x:34 y:22 map:G omega:27 oq:75
+
+>AAD18116.1AT2G24450FLA3 [Cleavage at C-25 of 91% quality]
+seq67 x:32 y:11 map:G omega:25 oq:91
+
+>BAB02217.1AT3G18590 [Cleavage at C-18 of 83% quality]
+seq68 x:23 y:16 map:G omega:18 oq:83
+
+>CAC05463.1AT1G18280
+seq69 x:18 y:10 map:G omega:32 oq:0
+
+>GI|18377670|GB|AAL66985.1|(AY074288)AT5G42720 [Cleavage at C-30 of 83% quality]
+seq70 x:21 y:33 map:G omega:30 oq:83
+
+>AAF01553.1AGP11AT3G01700 [Cleavage at C-32 of 75% quality]
+seq71 x:21 y:13 map:G omega:32 oq:75
+
+>(AT3G61640)AGP20 [Cleavage at C-8 of 75% quality]
+seq72 x:12 y:32 map:G omega:8 oq:75
+
+>BAB00758.1AT3G15720 [Cleavage at C-27 of 66% quality]
+seq73 x:17 y:30 map:G omega:27 oq:66
+
+>CAB62655.1AT3G51330 [Cleavage at C-27 of 75% quality]
+seq74 x:14 y:1 map:G omega:27 oq:75
+
+>cGpi-anchoredasparticprotease(Yapsin3);Yps3p [Cleavage at C-26 of 83% quality]
+seq75 x:26 y:24 map:G omega:26 oq:83
+
+>BAB09366.1AT5G36260 [Cleavage at C-27 of 100% quality]
+seq76 x:25 y:23 map:G omega:27 oq:100
+
+>AAC77827.1AT1G35230AGP5 [Cleavage at C-25 of 91% quality]
+seq77 x:22 y:3 map:G omega:25 oq:91
+
+>BAB02017.1AT3G18050
+seq78 x:10 y:34 map:G omega:32 oq:0
+
+>BAB10346.1AT5G49280 [Cleavage at C-25 of 58% quality]
+seq79 x:25 y:33 map:G omega:25 oq:58
+
+>AT4G14746 [Cleavage at C-32 of 58% quality]
+seq80 x:17 y:23 map:G omega:32 oq:58
+
+>CAB79832.1At4g31140 [Cleavage at C-16 of 75% quality]
+seq81 x:22 y:34 map:G omega:16 oq:75
+
+>AAD20925.1AT2G20700 [Cleavage at C-32 of 75% quality]
+seq82 x:24 y:25 map:G omega:32 oq:75
+
+>gi|10835143|ref|NP_000565.1|decayacceleratingfactorforcomplement(CD55,Cromerbloodgroupsystem);Decay-acceleratingfactorofcomplement[Homosapiens] [Cleavage at C-32 of 25% quality]
+seq83 x:18 y:1 map:G omega:32 oq:25
+
+>AT5G25090 [Cleavage at C-23 of 83% quality]
+seq84 x:24 y:5 map:G omega:23 oq:83
+
+>BAA97210.1At5g62630 [Cleavage at C-25 of 91% quality]
+seq85 x:32 y:27 map:G omega:25 oq:91
+
+>AT4G25240 [Cleavage at C-27 of 100% quality]
+seq86 x:27 y:17 map:G omega:27 oq:100
+
+>AAG12670.1COBL2/3AT3G29810 [Cleavage at C-25 of 75% quality]
+seq87 x:21 y:26 map:G omega:25 oq:75
+
+>CAB36779.1AT4G28100 [Cleavage at C-24 of 75% quality]
+seq88 x:27 y:28 map:G omega:24 oq:75
+
+>(BAA96979.1)AT5G50660
+seq89 x:17 y:7 map:G omega:32 oq:0
+
+>BAB08232.1AT5G60490FLA12 [Cleavage at C-30 of 66% quality]
+seq90 x:35 y:18 map:G omega:30 oq:66
+
+>AAD15432.1AT2G13830 [Cleavage at C-23 of 83% quality]
+seq91 x:26 y:21 map:G omega:23 oq:83
+
+>AT1G27950
+seq92 x:16 y:5 map:G omega:32 oq:0
+
+>BAA95716.1AT3G27410 [Cleavage at C-25 of 91% quality]
+seq93 x:24 y:14 map:G omega:25 oq:91
+
+>AAG50914.1AT1G56320
+seq94 x:21 y:6 map:G omega:32 oq:0
+
+>BAB08664.1AT5G51480 [Cleavage at C-30 of 91% quality]
+seq95 x:29 y:22 map:G omega:30 oq:91
+
+>AAF79572.1AT1G07460 [Cleavage at C-26 of 75% quality]
+seq96 x:30 y:33 map:G omega:26 oq:75
+
+>AT5G20870 [Cleavage at C-25 of 75% quality]
+seq97 x:24 y:15 map:G omega:25 oq:75
+
+>AAF98573.1AT1G26450 [Cleavage at C-32 of 58% quality]
+seq98 x:17 y:10 map:G omega:32 oq:58
+
+>(BAB09698.1)AT5G40960
+seq99 x:17 y:40 map:G omega:32 oq:0
+
+>BAB08298.1AT5G14190 [Cleavage at C-29 of 50% quality]
+seq100 x:13 y:40 map:G omega:29 oq:50
+
+>VSG2_TRYEQVariantsurfaceglycoprotein20precurs [Cleavage at C-22 of 41% quality]
+seq101 x:16 y:19 map:G omega:22 oq:41
+
+>CAA18495.1AT4G36010RECPTOR/THAUMATIN-LIKE [Cleavage at C-26 of 75% quality]
+seq102 x:16 y:14 map:G omega:26 oq:75
+
+>AT5G62200 [Cleavage at C-32 of 83% quality]
+seq103 x:21 y:4 map:G omega:32 oq:83
+
+>CAB36515.1AT4G26690 [Cleavage at C-10 of 25% quality]
+seq104 x:17 y:18 map:G omega:10 oq:25
+
+>Kilon[Rattusnorvegicus] [Cleavage at C-31 of 66% quality]
+seq105 x:19 y:33 map:G omega:31 oq:66
+
+>S18766GPI-anchoredepididymalantigenCDw52,prec [Cleavage at C-26 of 83% quality]
+seq106 x:26 y:30 map:G omega:26 oq:83
+
+>BAB08342.1AT5G22430 [Cleavage at C-22 of 66% quality]
+seq107 x:13 y:1 map:G omega:22 oq:66
+
+>At5g19230 [Cleavage at C-27 of 75% quality]
+seq108 x:35 y:22 map:G omega:27 oq:75
+
+>AAB07009.1AT3G60280 [Cleavage at C-25 of 91% quality]
+seq109 x:19 y:12 map:G omega:25 oq:91
+
+>vascularcelladhesionmolecule-1
+seq110 x:24 y:39 map:G omega:32 oq:0
+
+>(CAA74765.1)AT4G16120COBL7
+seq111 x:20 y:8 map:G omega:32 oq:0
+
+>BAB11118.1AT5G13900 [Cleavage at C-32 of 75% quality]
+seq112 x:20 y:39 map:G omega:32 oq:75
+
+>prostatestemcellantigen[Homosapiens] [Cleavage at C-31 of 75% quality]
+seq113 x:14 y:1 map:G omega:31 oq:75
+
+>GI|10944741|EMB|CAC14090.1|AT4G16985.1 [Cleavage at C-28 of 66% quality]
+seq114 x:25 y:1 map:G omega:28 oq:66
+
+>AT1G62790 [Cleavage at C-26 of 75% quality]
+seq115 x:18 y:28 map:G omega:26 oq:75
+
+>AAK43968.1AT1G69295 [Cleavage at C-26 of 83% quality]
+seq116 x:29 y:5 map:G omega:26 oq:83
+
+>(AAF14840.1)AT3G01950
+seq117 x:20 y:40 map:G omega:32 oq:0
+
+>CAB88306.1AT3G58890
+seq118 x:29 y:35 map:G omega:32 oq:0
+
+>AT1G64760 [Cleavage at C-27 of 91% quality]
+seq119 x:34 y:19 map:G omega:27 oq:91
+
+>AAC00572.1AT1G24140 [Cleavage at C-27 of 75% quality]
+seq120 x:14 y:37 map:G omega:27 oq:75
+
+>AAF14841.1AT3G01940
+seq121 x:20 y:40 map:G omega:32 oq:0
+
+>BAB11104.1AT5G41280 [Cleavage at C-30 of 58% quality]
+seq122 x:26 y:10 map:G omega:30 oq:58
+
+>BAB09299.1AT5G56170 [Cleavage at C-11 of 100% quality]
+seq123 x:17 y:18 map:G omega:11 oq:100
+
+>CAB87672.1AT5G11990 [Cleavage at C-22 of 75% quality]
+seq124 x:24 y:20 map:G omega:22 oq:75
+
+>AT4G14815 [Cleavage at C-30 of 75% quality]
+seq125 x:15 y:30 map:G omega:30 oq:75
+
+>AAC77824.1AT2G22470AGP2 [Cleavage at C-25 of 100% quality]
+seq126 x:22 y:1 map:G omega:25 oq:100
+
+>AT2G48140 [Cleavage at C-19 of 66% quality]
+seq127 x:26 y:27 map:G omega:19 oq:66
+
+>BAB08565.1AT5G55480 [Cleavage at C-32 of 66% quality]
+seq128 x:18 y:23 map:G omega:32 oq:66
+
+>AAG21543.1AGP21AT1G55330 [Cleavage at C-23 of 83% quality]
+seq129 x:31 y:11 map:G omega:23 oq:83
+
+>AAD21728.1AT2G42800
+seq130 x:17 y:5 map:G omega:32 oq:0
+
+>BAB09240.1AT5G55730FLA1 [Cleavage at C-29 of 75% quality]
+seq131 x:22 y:18 map:G omega:29 oq:75
+
+>iGpi-anchoredasparticprotease(Yapsin7);Yps7p
+seq132 x:22 y:27 map:G omega:32 oq:0
+
+>dipeptidase[Susscrofa] [Cleavage at C-26 of 100% quality]
+seq133 x:14 y:1 map:G omega:26 oq:100
+
+>AT5G18690AGP25 [Cleavage at C-19 of 91% quality]
+seq134 x:20 y:27 map:G omega:19 oq:91
+
+>GI|18175943|GB|AAL59955.1|AT4G29360 [Cleavage at C-28 of 66% quality]
+seq135 x:24 y:30 map:G omega:28 oq:66
+
+>VMUT4Rvariantsurfaceglycoprotein4precursor- [Cleavage at C-5 of 100% quality]
+seq136 x:13 y:21 map:G omega:5 oq:100
+
+>AAC17632.1AT1G11830 [Cleavage at C-27 of 66% quality]
+seq137 x:24 y:25 map:G omega:27 oq:66
+
+>GP42_RATCellsurfaceglycoproteinGP42precursor [Cleavage at C-28 of 50% quality]
+seq138 x:15 y:4 map:G omega:28 oq:50
+
+>BAB11104.1AT5G41280 [Cleavage at C-30 of 58% quality]
+seq139 x:26 y:10 map:G omega:30 oq:58
+
+>AT3G13560
+seq140 x:10 y:30 map:G omega:32 oq:0
+
+>BAB08443.1AT5G42100 [Cleavage at C-26 of 91% quality]
+seq141 x:29 y:32 map:G omega:26 oq:91
+
+>(AT2G29660)
+seq142 x:14 y:11 map:G omega:32 oq:0
+
+>AAF78376.1AT1G18280 [Cleavage at C-23 of 91% quality]
+seq143 x:32 y:10 map:G omega:23 oq:91
+
+>AAF63823.1AT3G06750 [Cleavage at C-21 of 66% quality]
+seq144 x:25 y:18 map:G omega:21 oq:66
+
+>AAF36746.1AT1G73890 [Cleavage at C-26 of 83% quality]
+seq145 x:17 y:22 map:G omega:26 oq:83
+
+>AT4G12730FLA2 [Cleavage at C-27 of 50% quality]
+seq146 x:21 y:3 map:G omega:27 oq:50
+
+>CAB78027.1AGP10AT4G09030 [Cleavage at C-21 of 91% quality]
+seq147 x:30 y:10 map:G omega:21 oq:91
+
+>(AAG24284.1)AGP16AT2G46330 [Cleavage at C-7 of 75% quality]
+seq148 x:13 y:33 map:G omega:7 oq:75
+
+>BAB00585.1COBL8AT3G16860
+seq149 x:11 y:40 map:G omega:32 oq:0
+
+>CAB82694.1At3g60900Fla10 [Cleavage at C-25 of 91% quality]
+seq150 x:19 y:22 map:G omega:25 oq:91
+
+>At1g21880 [Cleavage at C-25 of 83% quality]
+seq151 x:18 y:31 map:G omega:25 oq:83
+
+>AT1G63580 [Cleavage at C-15 of 25% quality]
+seq152 x:20 y:7 map:G omega:15 oq:25
+
+>CAB89400.1AT5G10430AGP4 [Cleavage at C-25 of 100% quality]
+seq153 x:20 y:14 map:G omega:25 oq:100
+
+>VSA8_TRYBBVARIANTSURFACEGLYCOPROTEINANTAT1.8 [Cleavage at C-9 of 100% quality]
+seq154 x:22 y:18 map:G omega:9 oq:100
+
+>AAC00615.1AT1G23040 [Cleavage at C-27 of 75% quality]
+seq155 x:24 y:12 map:G omega:27 oq:75
+
+>AT5G40970
+seq156 x:20 y:40 map:G omega:32 oq:0
+
+>AAF19714.1AT1G63550
+seq157 x:20 y:37 map:G omega:32 oq:0
+
+>CAC01762.1COBL4AT5G15630(CORRECTEDFROMBENFEY2002) [Cleavage at C-23 of 83% quality]
+seq158 x:16 y:32 map:G omega:23 oq:83
+
+>AAD21728.1AT2G42800
+seq159 x:17 y:5 map:G omega:32 oq:0
+
+>AAG41964.1AGP18AT4G37450 [Cleavage at C-27 of 75% quality]
+seq160 x:26 y:4 map:G omega:27 oq:75
+
+>AT3G20520 [Cleavage at C-31 of 50% quality]
+seq161 x:25 y:32 map:G omega:31 oq:50
+
+>UPAR_HUMAN;GPI-ANCHOREDFORMPRECURSOR;U-PAR;M [Cleavage at C-31 of 75% quality]
+seq162 x:17 y:1 map:G omega:31 oq:75
+
+>AT1G05450 [Cleavage at C-27 of 75% quality]
+seq163 x:16 y:33 map:G omega:27 oq:75
+
+>BAB10221.1AT5G39970 [Cleavage at C-28 of 75% quality]
+seq164 x:26 y:1 map:G omega:28 oq:75
+
+>DefectiveCellWall.N-glycosylated,GPI-anchored [Cleavage at C-22 of 66% quality]
+seq165 x:21 y:1 map:G omega:22 oq:66
+
+>CAB83144.1AT3G43720 [Cleavage at C-24 of 91% quality]
+seq166 x:17 y:34 map:G omega:24 oq:91
+
+>AT3G58100 [Cleavage at C-24 of 75% quality]
+seq167 x:16 y:9 map:G omega:24 oq:75
+
+>BAB08377.1AT5G03170FLA11 [Cleavage at C-28 of 83% quality]
+seq168 x:18 y:24 map:G omega:28 oq:83
+
+>CAB41712.1AT4G12420 [Cleavage at C-27 of 91% quality]
+seq169 x:32 y:20 map:G omega:27 oq:91
+
+>BAB10263.1AT5G58480 [Cleavage at C-24 of 75% quality]
+seq170 x:10 y:40 map:G omega:24 oq:75
+
+>BAB09862.1AT5G64310AGP1 [Cleavage at C-24 of 50% quality]
+seq171 x:19 y:16 map:G omega:24 oq:50
+
+>AT1G66250 [Cleavage at C-29 of 83% quality]
+seq172 x:15 y:15 map:G omega:29 oq:83
+
+>AAF02148.1AT3G07390 [Cleavage at C-27 of 83% quality]
+seq173 x:23 y:11 map:G omega:27 oq:83
+
+>CAB36515.1At4g26690 [Cleavage at C-10 of 25% quality]
+seq174 x:17 y:18 map:G omega:10 oq:25
+
+>AAC64895.1AT1G54860 [Cleavage at C-27 of 66% quality]
+seq175 x:22 y:1 map:G omega:27 oq:66
+
+>CAB41712.1AT4G12420 [Cleavage at C-27 of 91% quality]
+seq176 x:32 y:20 map:G omega:27 oq:91
+
+>G156_PARPR156GsurfaceproteinprecursorParameci [Cleavage at C-17 of 66% quality]
+seq177 x:16 y:35 map:G omega:17 oq:66
+
+>A4069763Kspermflagellarmembraneproteinprecur
+seq178 x:18 y:3 map:G omega:32 oq:0
+
+>BAB01759.1AGP12AT3G13520 [Cleavage at C-23 of 83% quality]
+seq179 x:32 y:12 map:G omega:23 oq:83
+
+>CAB62612.1AT5G08000 [Cleavage at C-24 of 83% quality]
+seq180 x:34 y:22 map:G omega:24 oq:83
+
+>AAC16080.1AT2G44300
+seq181 x:17 y:40 map:G omega:32 oq:0
+
+>CAA78771.1At5g20230 [Cleavage at C-23 of 91% quality]
+seq182 x:33 y:10 map:G omega:23 oq:91
+
+>AAF07793.1AT1G77630
+seq183 x:26 y:33 map:G omega:32 oq:0
+
+>RWBYS1glycophospholipid-anchoredsurfaceglycopro [Cleavage at C-32 of 91% quality]
+seq184 x:23 y:13 map:G omega:32 oq:91
+
+>aGPI-anchoredbrevicanisoform[Rattusnorvegicus] [Cleavage at C-24 of 83% quality]
+seq185 x:14 y:21 map:G omega:24 oq:83
+
+>AAG40020.2AGP9AT2G14890 [Cleavage at C-20 of 58% quality]
+seq186 x:34 y:17 map:G omega:20 oq:58
+
+>AAF19686.1AT1G64640 [Cleavage at C-27 of 91% quality]
+seq187 x:18 y:14 map:G omega:27 oq:91
+
+>BAB01476.1AT3G22611 [Cleavage at C-23 of 91% quality]
+seq188 x:24 y:19 map:G omega:23 oq:91
+
+>CAB78588.1AT4G15460 [Cleavage at C-13 of 50% quality]
+seq189 x:29 y:26 map:G omega:13 oq:50
+
+>AAB81674.1AT2G17120 [Cleavage at C-32 of 91% quality]
+seq190 x:25 y:30 map:G omega:32 oq:91
+
+>CAB45494.1AT4G12950NOAGP
+seq191 x:29 y:1 map:G omega:32 oq:0
+
+>AAC63667.1AT2G23990 [Cleavage at C-27 of 91% quality]
+seq192 x:21 y:16 map:G omega:27 oq:91
+
+>CAA22576.1AT4G32490 [Cleavage at C-30 of 75% quality]
+seq193 x:21 y:15 map:G omega:30 oq:75
+
+>LERK-3[Musmusculus] [Cleavage at C-25 of 33% quality]
+seq194 x:21 y:8 map:G omega:25 oq:33
+
+>AAC77871.1AT2G27130 [Cleavage at C-26 of 25% quality]
+seq195 x:32 y:27 map:G omega:26 oq:25
+
+>AAC16079.1AT2G44290
+seq196 x:18 y:40 map:G omega:32 oq:0
+
+>jGPI-anchoredsurfaceprotein[Toxoplasmagondii] [Cleavage at C-15 of 75% quality]
+seq197 x:20 y:13 map:G omega:15 oq:75
+
+>AT3G04010 [Cleavage at C-27 of 83% quality]
+seq198 x:34 y:18 map:G omega:27 oq:83
+
+>MSA1_SARMUMerozoite31kDasurfaceantigenprecur [Cleavage at C-26 of 66% quality]
+seq199 x:24 y:8 map:G omega:26 oq:66
+
+>BAB02002.1AT3G24518 [Cleavage at C-23 of 75% quality]
+seq200 x:26 y:29 map:G omega:23 oq:75
+
+>AT1G10375 [Cleavage at C-31 of 83% quality]
+seq201 x:35 y:18 map:G omega:31 oq:83
+
+>OS24_PLABA24kDaookinetesurfaceproteinprecurs [Cleavage at C-24 of 66% quality]
+seq202 x:20 y:32 map:G omega:24 oq:66
+
+>CAB77992.1AT4G08670 [Cleavage at C-30 of 83% quality]
+seq203 x:19 y:29 map:G omega:30 oq:83
+
+>AF353629_1surfaceproteinEP3-2procyclinprecurs [Cleavage at C-23 of 75% quality]
+seq204 x:21 y:6 map:G omega:23 oq:75
+
+>AT1G68725AGP19 [Cleavage at C-14 of 58% quality]
+seq205 x:25 y:6 map:G omega:14 oq:58
+
+>CAA16540.1AT4G31370FLA5 [Cleavage at C-25 of 91% quality]
+seq206 x:30 y:12 map:G omega:25 oq:91
+
+>decay-acceleratingfactorCD55[Susscrofa] [Cleavage at C-27 of 83% quality]
+seq207 x:17 y:13 map:G omega:27 oq:83
+
+>AAD14473.1AT1G59970 [Cleavage at C-29 of 66% quality]
+seq208 x:16 y:26 map:G omega:29 oq:66
+
+>At2g01630
+seq209 x:20 y:26 map:G omega:32 oq:0
+
+>(AT1G23050
+seq210 x:21 y:8 map:G omega:32 oq:0
+
+>JC6305neuritinprecursor-rat [Cleavage at C-10 of 100% quality]
+seq211 x:17 y:19 map:G omega:10 oq:100
+
+>BAB01475.1AT3G22600 [Cleavage at C-25 of 75% quality]
+seq212 x:20 y:33 map:G omega:25 oq:75
+
+>(BAB09480.1)AT5G18220
+seq213 x:21 y:20 map:G omega:32 oq:0
+
+>CAB79777.1AT4G30590 [Cleavage at C-24 of 91% quality]
+seq214 x:30 y:5 map:G omega:24 oq:91
+
+>BAB09240.1At5g55730Fla1 [Cleavage at C-29 of 75% quality]
+seq215 x:22 y:18 map:G omega:29 oq:75
+
+>CAB62325.1AT3G46550FLA4 [Cleavage at C-26 of 83% quality]
+seq216 x:24 y:33 map:G omega:26 oq:83
+
+>CAB71905.1AT3G61980 [Cleavage at C-32 of 83% quality]
+seq217 x:23 y:3 map:G omega:32 oq:83
+
+>AAC17632.1At1g11830 [Cleavage at C-27 of 66% quality]
+seq218 x:24 y:25 map:G omega:27 oq:66
+
+>AAC24095.1AT1G09175 [Cleavage at C-32 of 58% quality]
+seq219 x:15 y:30 map:G omega:32 oq:58
+
+>AT4G28365 [Cleavage at C-20 of 91% quality]
+seq220 x:21 y:15 map:G omega:20 oq:91
+
+>M130_STRPUMESENCHYME-SPECIFICCELLSURFACEGLYCOP [Cleavage at C-28 of 91% quality]
+seq221 x:21 y:14 map:G omega:28 oq:91
+
+>CAB38264.1At4g27520 [Cleavage at C-25 of 91% quality]
+seq222 x:22 y:24 map:G omega:25 oq:91
+
+>BAB11001.1At5g58090 [Cleavage at C-23 of 75% quality]
+seq223 x:23 y:16 map:G omega:23 oq:75
+
+>At1g27950
+seq224 x:16 y:5 map:G omega:32 oq:0
+
+>majorconstituentofthecellwallcontainingGPI [Cleavage at C-21 of 75% quality]
+seq225 x:30 y:5 map:G omega:21 oq:75
+
+>AAB61099.1AT1G70170 [Cleavage at C-30 of 100% quality]
+seq226 x:25 y:23 map:G omega:30 oq:100
+
+>AAD48513.1AT2G48130 [Cleavage at C-27 of 75% quality]
+seq227 x:27 y:21 map:G omega:27 oq:75
+
+>AF203016_1S60protein[Cryptosporidiumparvum] [Cleavage at C-23 of 91% quality]
+seq228 x:32 y:10 map:G omega:23 oq:91
+

@@ -1,0 +1,14 @@
+/*	logs an ASCII map
+		for (i=0;i<DIM1;i++) {		/* loop first dimention */
+			for (j=0;j<DIM2;j++) {	/* loop second dimention */
+				if ((i==xp-1) && (j==yp-1)) {	/* if we're printing he winning unit now */
+					fprintf(log,"!");	/* then highlight it with a ! */
+				} else {fprintf(log," ");}	/* else just a space */
+				fprintf(log,"%c",posi[i][j]);	/* print the current position G,N,X or - */
+				if ((i==xp-1) && (j==yp-1)) {	/* if we're printing he winning unit now */
+					fprintf(log,"!");	/* then highlight it with a ! */
+				} else {fprintf(log," ");}	/* else just a space */
+			}
+			fprintf(log,"\n");	/* new line in map */
+		}
+*/
